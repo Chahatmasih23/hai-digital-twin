@@ -4,7 +4,7 @@ An interpretable agent-based **digital twin** for forecasting hospital-acquired 
 
 **Live dashboard:** https://chahat23masih.shinyapps.io/hai-digital-twin/
 
-This repository holds the code behind the University of Sydney honours thesis *"Digital twin agent-based modelling for simulating and predicting antimicrobial resistance in hospital environments"* (Chahat Masih, 2026) and the related manuscript.
+This repository holds the code behind the University of Sydney honours thesis *"Agent-based digital twins for antimicrobial resistance: a case study of hospital-acquired Escherichia coli infections"* (Chahat Masih, 2026) and the related manuscript.
 
 ---
 
