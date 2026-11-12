@@ -1,0 +1,16 @@
+stage,ward,actual,poisson,abm_median,abm_95_low,abm_95_high,actual_inside_95
+Stage 1,ED,20,14.1,14.0,7.0,22.0,True
+Stage 1,ICU,0,1.2,1.0,0.0,3.0,True
+Stage 1,Medical,3,3.8,4.0,1.0,8.0,True
+Stage 1,Surgical,4,3.9,4.0,1.0,8.0,True
+Stage 1,Hospital,27,23.0,23.0,14.0,32.0,True
+Stage 2,ED,20,14.1,14.0,7.0,21.0,True
+Stage 2,ICU,0,1.2,1.0,0.0,3.0,True
+Stage 2,Medical,3,3.8,4.0,1.0,8.0,True
+Stage 2,Surgical,4,3.9,4.0,1.0,9.0,True
+Stage 2,Hospital,27,23.0,23.0,14.0,32.0,True
+Stage 3,ED,20,14.1,13.0,7.0,21.0,True
+Stage 3,ICU,0,1.2,1.0,0.0,3.0,True
+Stage 3,Medical,3,3.8,4.0,1.0,8.0,True
+Stage 3,Surgical,4,3.9,4.0,1.0,9.0,True
+Stage 3,Hospital,27,23.0,23.0,14.0,33.0,True

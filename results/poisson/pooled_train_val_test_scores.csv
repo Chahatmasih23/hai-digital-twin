@@ -1,0 +1,4 @@
+split,model,mae,rmse,n
+train,[Pooled (train)] Model 3: + ward,0.5783356774925095,0.7934566852671756,2057
+validation,[Pooled (train)] Model 3: + ward,0.6007717829046402,0.8098925768683686,440
+test,[Pooled (train)] Model 3: + ward,0.572329440435532,0.8202815440569056,439

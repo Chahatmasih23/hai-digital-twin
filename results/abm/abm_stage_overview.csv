@@ -1,0 +1,4 @@
+stage,hospital_median,ward_day_MAE,risk_ratio_infected_vs_not
+Stage 1,23.0,0.101,1.097
+Stage 2,23.0,0.101,1.077
+Stage 3,23.0,0.101,1.047

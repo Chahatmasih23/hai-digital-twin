@@ -1,0 +1,13 @@
+organism,drug,n_infections
+K pneumoniae,Ceftriaxone,197
+E coli,Meropenem,190
+P aeruginosa,Meropenem,184
+P aeruginosa,Ceftriaxone,169
+K pneumoniae,Meropenem,166
+E coli,Ceftriaxone,164
+K pneumoniae,Vancomycin,163
+S aureus,Meropenem,162
+E coli,Vancomycin,158
+S aureus,Ceftriaxone,158
+P aeruginosa,Vancomycin,156
+S aureus,Vancomycin,133
