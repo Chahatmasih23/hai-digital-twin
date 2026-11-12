@@ -1,0 +1,5 @@
+ward,device_prob,crowd_threshold
+ED,0.274,42.0
+ICU,0.2231,6.0
+Medical,0.2441,14.0
+Surgical,0.2476,13.0

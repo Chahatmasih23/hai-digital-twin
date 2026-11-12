@@ -1,0 +1,5 @@
+ward,DISCHARGE,ICU,Medical,Surgical
+ED,0.3994,0.09,0.2584,0.2522
+ICU,0.3909,0.0,0.3004,0.3087
+Medical,1.0,0.0,0.0,0.0
+Surgical,1.0,0.0,0.0,0.0
