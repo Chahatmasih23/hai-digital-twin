@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HAI Digital Twin: an interpretable agent-based digital twin for forecasting hospital-acquired E. coli infections"
+authors:
+  - family-names: Masih
+    given-names: Chahat
+    affiliation: "School of Biomedical Engineering, The University of Sydney"
+  - family-names: Clement
+    given-names: Sandhya
+    affiliation: "School of Biomedical Engineering, The University of Sydney"
+  - family-names: Cespedes
+    given-names: Marcela
+    affiliation: "CSIRO"
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+repository-code: "https://github.com/Chahatmasih23/hai-digital-twin"
+url: "https://chahat23masih.shinyapps.io/hai-digital-twin/"
+keywords:
+  - digital twin
+  - agent-based model
+  - Poisson regression
+  - hospital-acquired infection
+  - antimicrobial resistance

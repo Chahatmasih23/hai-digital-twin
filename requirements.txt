@@ -1,0 +1,9 @@
+# Python packages used by the notebooks (developed with Python 3.12/3.13)
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+seaborn
+plotly
+jupyterlab
